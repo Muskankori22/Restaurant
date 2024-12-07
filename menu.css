@@ -1,0 +1,1092 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+body{
+  background-image: url('images/background_image.avif');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+#n1{
+  display: flex;
+    min-width:500px;
+   justify-content: space-evenly;
+    background-color: rgb(221, 212, 212);
+}
+#n1 a{
+  font-size: 14px;
+  letter-spacing:.3px;
+  color: #282c3f;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 12px 0;
+}
+.main_banner #m2{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:22%;
+  top:13%;
+  height:150px;
+  width:300px;
+  border-top:1px solid rgb(254, 254, 71);
+  border-left:1px solid rgb(254, 254, 71);
+  border-bottom:1px solid rgb(254, 254, 71);
+} 
+.main_banner #m3{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:41%;
+  top:13%;
+  height:150px;
+  width:300px;
+  border-top:1px solid rgb(254, 254, 71);
+  border-bottom:1px solid rgb(254, 254, 71);
+} 
+.main_banner #m4{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:60%;
+  top:13%;
+  height:150px;
+  width:300px;
+  border-top:1px solid rgb(254, 254, 71);
+  border-right:1px solid rgb(254, 254, 71);
+  border-bottom:1px solid rgb(254, 254, 71);
+} 
+.main_banner #p1{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:5%;
+  top:40%;
+  height:150px;
+  width:300px;
+  border-radius: 50%;
+  border: 3px solid black;
+} 
+.main_banner #p2{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:40%;
+  height:150px;
+  width:300px;
+  border-radius: 50%;
+  border: 3px solid black;
+} 
+.main_banner #p3{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:40%;
+  height:150px;
+  width:300px;
+  border-radius: 50%;
+  border: 3px solid black;
+} 
+.main_banner #p4{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:40%;
+  height:150px;
+  width:300px;
+  border-radius: 50%;
+  border: 3px solid black;
+} 
+.main_banner #h1{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:63%;
+  height:150px;
+  width:300px;
+}
+.main_banner #h2{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:63%;
+  height:150px;
+  width:300px;
+}
+.main_banner #h3{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:63%;
+  height:150px;
+  width:300px;
+}
+.main_banner #h4{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:63%;
+  height:150px;
+  width:300px;
+}
+.main_banner #r1{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:67%;
+  height:150px;
+  width:300px;
+}
+.main_banner #r2{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:67%;
+  height:150px;
+  width:300px;
+}
+.main_banner #r3{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:67%;
+  height:150px;
+  width:300px;
+}
+.main_banner #r4{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:67%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f1{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:72%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f2{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:75%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f3{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:78%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f4{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:81%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f5{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:84%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f6{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:87%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f11{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:72%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f12{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:75%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f13{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:78%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f14{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:81%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f15{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:84%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f16{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:87%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f21{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:72%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f22{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:75%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f23{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:78%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f24{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:81%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f25{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:84%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f26{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:87%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f31{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:72%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f32{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:75%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f33{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:78%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f34{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:81%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f35{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:84%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f36{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:87%;
+  height:150px;
+  width:300px;
+}
+.main_banner #q1{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:94%;
+  height:150px;
+  width:300px;
+  border-radius: 50%;
+  border: 3px solid black;
+}
+.main_banner #q2{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:94%;
+  height:150px;
+  width:300px;
+  border-radius: 50%;
+  border: 3px solid black;
+}
+.main_banner #q3{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:94%;
+  height:150px;
+  width:300px;
+  border-radius: 50%;
+  border: 3px solid black;
+}
+.main_banner #q4{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:94%;
+  height:150px;
+  width:300px;
+  border-radius: 50%;
+  border: 3px solid black;
+}
+.main_banner #h11{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:117%;
+  height:150px;
+  width:300px;
+}
+.main_banner #h12{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:117%;
+  height:150px;
+  width:300px;
+}
+.main_banner #h13{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:117%;
+  height:150px;
+  width:300px;
+}
+.main_banner #h14{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:117%;
+  height:150px;
+  width:300px;
+}
+.main_banner #r11{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:121%;
+  height:150px;
+  width:300px;
+}
+.main_banner #r12{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:121%;
+  height:150px;
+  width:300px;
+}
+.main_banner #r13{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:121%;
+  height:150px;
+  width:300px;
+}
+.main_banner #r14{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:121%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f41{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:126%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f42{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:129%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f43{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:132%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f44{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:135%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f45{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:138%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f46{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:141%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f51{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:126%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f52{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:129%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f53{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:132%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f54{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:135%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f55{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:138%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f56{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:141%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f61{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:126%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f62{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:129%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f63{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:132%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f64{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:135%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f65{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:138%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f66{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:141%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f71{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:126%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f72{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:129%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f73{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:132%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f74{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:135%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f75{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:138%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f76{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:141%;
+  height:150px;
+  width:300px;
+}
+.main_banner #q11{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:148%;
+  height:150px;
+  width:300px;
+  border-radius: 50%;
+  border: 3px solid black;
+}
+.main_banner #q12{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:148%;
+  height:150px;
+  width:300px;
+  border-radius: 50%;
+  border: 3px solid black;
+}
+.main_banner #q13{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:148%;
+  height:150px;
+  width:300px;
+  border-radius: 50%;
+  border: 3px solid black;
+}
+.main_banner #q14{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:148%;
+  height:150px;
+  width:300px;
+  border-radius: 50%;
+  border: 3px solid black;
+}
+.main_banner #h01{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:171%;
+  height:150px;
+  width:300px;
+}
+.main_banner #h02{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:171%;
+  height:150px;
+  width:300px;
+}
+.main_banner #h03{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:171%;
+  height:150px;
+  width:300px;
+}
+.main_banner #h04{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:171%;
+  height:150px;
+  width:300px;
+}
+.main_banner #r01{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:175%;
+  height:150px;
+  width:300px;
+}
+.main_banner #r02{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:175%;
+  height:150px;
+  width:300px;
+}
+.main_banner #r03{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:175%;
+  height:150px;
+  width:300px;
+}
+.main_banner #r04{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:175%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f01{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:180%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f02{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:183%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f03{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:186%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f04{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:189%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f05{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:192%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f06{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:71%;
+  top:195%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f011{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:180%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f012{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:183%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f013{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:186%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f014{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:189%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f45{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:192%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f46{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:4%;
+  top:195%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f021{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:180%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f022{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:183%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f023{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:186%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f024{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:189%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f025{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:192%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f026{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:27%;
+  top:195%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f031{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:180%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f032{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:183%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f033{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:186%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f034{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:189%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f035{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:192%;
+  height:150px;
+  width:300px;
+}
+.main_banner #f036{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:49%;
+  top:195%;
+  height:150px;
+  width:300px;
+}
+.main_banner #m12{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:22%;
+  top:205%;
+  height:150px;
+  width:300px;
+  border-top:1px solid rgb(254, 254, 71);
+  border-left:1px solid rgb(254, 254, 71);
+  border-bottom:1px solid rgb(254, 254, 71);
+} 
+.main_banner #m13{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:41%;
+  top:205%;
+  height:150px;
+  width:300px;
+  border-top:1px solid rgb(254, 254, 71);
+  border-bottom:1px solid rgb(254, 254, 71);
+} 
+.main_banner #m14{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left:60%;
+  top:205%;
+  height:150px;
+  width:300px;
+  border-top:1px solid rgb(254, 254, 71);
+  border-right:1px solid rgb(254, 254, 71);
+  border-bottom:1px solid rgb(254, 254, 71);
+} 
